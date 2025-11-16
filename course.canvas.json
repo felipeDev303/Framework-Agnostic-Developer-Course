@@ -1,0 +1,96 @@
+{
+  "nodes": [
+    {
+      "id": "00-Introduccion.md",
+      "type": "file",
+      "file": "00-Introduccion.md",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": "01-UI-Web.md",
+      "type": "file",
+      "file": "01-UI-Web.md",
+      "x": 350,
+      "y": 0
+    },
+    {
+      "id": "02-HTTP-Cliente-Servidor.md",
+      "type": "file",
+      "file": "02-HTTP-Cliente-Servidor.md",
+      "x": 700,
+      "y": 0
+    },
+    {
+      "id": "03-Componentes-Arbol-Estado.md",
+      "type": "file",
+      "file": "03-Componentes-Arbol-Estado.md",
+      "x": 1050,
+      "y": 0
+    },
+    {
+      "id": "04-Compiladores.md",
+      "type": "file",
+      "file": "04-Compiladores.md",
+      "x": 1400,
+      "y": 0
+    },
+    {
+      "id": "05-VDOM.md",
+      "type": "file",
+      "file": "05-VDOM.md",
+      "x": 1750,
+      "y": 0
+    },
+    {
+      "id": "06-Signals.md",
+      "type": "file",
+      "file": "06-Signals.md",
+      "x": 2100,
+      "y": 0
+    },
+    {
+      "id": "07-PreRender-Parcial.md",
+      "type": "file",
+      "file": "07-PreRender-Parcial.md",
+      "x": 2450,
+      "y": 0
+    },
+    {
+      "id": "08-Enrutamiento.md",
+      "type": "file",
+      "file": "08-Enrutamiento.md",
+      "x": 2800,
+      "y": 0
+    },
+    {
+      "id": "09-Streaming-Suspense.md",
+      "type": "file",
+      "file": "09-Streaming-Suspense.md",
+      "x": 3150,
+      "y": 0
+    },
+    {
+      "id": "10-Lazy-Loading.md",
+      "type": "file",
+      "file": "10-Lazy-Loading.md",
+      "x": 3500,
+      "y": 0
+    },
+    {
+      "id": "11-RPCs.md",
+      "type": "file",
+      "file": "11-RPCs.md",
+      "x": 3850,
+      "y": 0
+    },
+    {
+      "id": "12-Stack-Dive.md",
+      "type": "file",
+      "file": "12-Stack-Dive.md",
+      "x": 4200,
+      "y": 0
+    }
+  ],
+  "edges": []
+}
